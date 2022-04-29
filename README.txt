@@ -21,21 +21,6 @@ This is a Cloth store template, this template was created just for the assignmet
 1. Header image works best at a minimum of 1680 wide and 600 high.
 2. Featured Images work best at a minimum of 1100 wide and 420 high.
 
-
-== License ==
-
-Shopstar! WordPress Theme, Copyright 2018 Out the Box.
-Shopstar! is distributed under the terms of the GNU GPL.
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/copyleft/gpl.html.
-Shopstar WordPress Theme is derived from Underscores WordPress Theme, Copyright 2012 Automattic http://underscores.me/ Underscores WordPress Theme is distributed under the terms of the GNU GPL.
-All Javascript is located in /js/ with license headers where appropriate.
-
 == Bundled Licenses ==
 
 Customizer Library 1.3.0
